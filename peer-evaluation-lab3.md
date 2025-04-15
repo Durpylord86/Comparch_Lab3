@@ -14,35 +14,35 @@ Provide a brief comment for each category to justify your score.
 ### 1. **Contribution to the Project**
    - Did your partner contribute effectively to the completion of the project tasks?  
    **Rating (0-5):** 4  
-   **Comment:** She tried to get as much done as she could understand. This was a hard lab on both of us since both of us were having a hard time understanding how riscv_single.sv worked.
+   **Comment:** She tried to get as much done as she could understand. She helped figure out how to get some of the instructions into the pipeline.
 
 ---
 
 ### 2. **Communication**
    - Was your partner clear, responsive, and collaborative in their communication?  
-   **Rating (0-5):** 4  
-   **Comment:** She was quick to respond when I messaged her. The only issue I had was messaging her over break spring break, but I can't blame wanting to get some rest from school.
+   **Rating (0-5):** 5  
+   **Comment:** She was quick to respond when I messaged her.
 
 ---
 
 ### 3. **Problem-Solving Skills**
    - Did your partner demonstrate initiative and problem-solving abilities?  
-   **Rating (0-5):** 3  
-   **Comment:** She tried throwing out some ideas, but I got most of the instructions working correctly. She definitely was a lot less afraid to "break the code" than I was though.
+   **Rating (0-5):** 4  
+   **Comment:** She tried throwing out some ideas, and caught some of my isues while I was coding in lab. She definitely was a lot less afraid to "break the code" than I was though.
 
 ---
 
 ### 4. **Reliability**
    - Was your partner dependable in meeting deadlines and completing assigned tasks?  
-   **Rating (0-5):** 3  
-   **Comment:** Both of us had trouble meeting the deadline for this lab, so I don't want to be harsh on her for not meeting deadlines this time.
+   **Rating (0-5):** 4  
+   **Comment:** She was better with responding considering last lab, but I don't think she has as much time as I do to work on this lab.
 
 ---
 
 ### 5. **Teamwork**
    - Did your partner work well as part of the team and support a positive working environment?  
    **Rating (0-5):** 4  
-   **Comment:** We were able to work well together when we had time. This lab really showed me that our schedules just don't give us a lot of time outside of the lab to work at Endeavor at the same time. It's hard to say that we did well when this lab was turned in late.
+   **Comment:** We were able to work well together when we had time, though this was mostly just during lab hours.
 
 ---
 
